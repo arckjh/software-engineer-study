@@ -62,7 +62,7 @@
   - 해시 테이블
   - 트리
   - 그래프
-* 알고리즘
+* 알고리즘   
   ![알고리즘 이미지](https://i.imgur.com/EPdDmwQ.jpg)
   - 재귀 함수 사용법
   - 메모리제이션
@@ -89,7 +89,7 @@
 * 웹서버 : 아파치 / NGINX
   - 동기/쓰레딩 방식   
   ![동기/쓰레딩 방식](https://mblogthumb-phinf.pstatic.net/MjAxNzAzMjZfMTI2/MDAxNDkwNDk1NjMxNzU4.wrfzv-j7_pzF4GorDTt52dZPzLcUPwnu6JJkgvD53r0g.2xqzw_4Z557pZPaKMbg5pCF3CfvyQtpBqnZrA1p9qjYg.GIF.jhc9639/mighttpd_e01.gif.gif?type=w800)
-  - 비동기/이벤트 드리븐 방식
+  - 비동기/이벤트 드리븐 방식   
   ![비동기/이벤트 드리븐 방식](https://mblogthumb-phinf.pstatic.net/MjAxNzAzMjZfMTM3/MDAxNDkwNDk1NjMxNzgy.OHZ33nerX_6Hc92Mg_xjr51acwwi1P_mq3SIl7Cuhisg.niRsQQVM5CwGpXKcdOxl3bkNsmfBkqGV1ajcBpV6CvQg.GIF.jhc9639/mighttpd_e02.gif.gif?type=w800)
 * 데이터베이스
   - 1,2,3 정규화  
