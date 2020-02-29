@@ -21,8 +21,7 @@
 ![커널 이미지](https://t1.daumcdn.net/cfile/tistory/22642A4D56C3D67811)
 * 프로세스
   - 메모리 구성   
-  ![메모리 구성](https://mblogthumb-phinf.pstatic.net/20160606_142/yeop9657_1465204023522CTEsY_PNG/%B1%D7%B8%B28.png?type=w2)
-  ![메모리 구성2](https://mblogthumb-phinf.pstatic.net/20160606_24/yeop9657_1465204024106gSiyI_PNG/%B1%D7%B8%B29.png?type=w2)
+  ![메모리 구성](https://rookieboxsite.files.wordpress.com/2017/10/c_memmap_exam_vs.png?w=648)
   - 스케쥴러 & 인터럽트
   ![스케쥴러 이미지](https://wkdtjsgur100.github.io/images/posts/process-status.png)
   - 컨텍스트 스위칭   
@@ -36,8 +35,9 @@
   ![쓰레드 이미지](https://t1.daumcdn.net/cfile/tistory/99195A495BA7B8EE08)
   - 뮤텍스(임계 영역)
   ![뮤텍스(임계 영역) 이미지](https://prepinsta.com/wp-content/uploads/2019/01/Mutex-Vs-Semaphore-1-1024x429.png)
-* 메모리 개념   
-![메모리 개념 이미지](https://lh3.googleusercontent.com/proxy/5swmt6p4H3WsMmUQ8jkjIbIYumGRMzIyblfqU61SWaKpuaXEl4jQh_gGCr1Zvfuuys2LVKU_jH6k9hSh3V0wHorsls77AulLDvHf-yr1CaLE3abLQsVemmv5OLdzCDe7POrOhwKPP4ruBBqdFHkWMAirpv2z3lNNLSY)
+* 가상 메모리   
+![가상 메모리](https://mblogthumb-phinf.pstatic.net/20160606_142/yeop9657_1465204023522CTEsY_PNG/%B1%D7%B8%B28.png?type=w2)
+![가상 메모리2](https://mblogthumb-phinf.pstatic.net/20160606_24/yeop9657_1465204024106gSiyI_PNG/%B1%D7%B8%B29.png?type=w2)
 * 파일 시스템   
 ![파일 시스템 이미지1](https://t1.daumcdn.net/cfile/tistory/214BAE4956AF0B0E01)
 ![파일 시스템 이미지2](https://kouzie.github.io/assets/OS/OS_12_8.png)
