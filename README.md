@@ -24,7 +24,7 @@
   ![메모리 구성](https://lh3.googleusercontent.com/proxy/mZH4wYKAGIrU6lkSXkRTtlFNcXN12OJx_NPscVQhiOIZbdWSGYyPtx-qWBrynhtCbZMpeQLuwE7AhbvMDEVQ4N0GQZcbOrox21nvjkJnk288KmMyDQZNqSb1y1ktD97Ou1DNa3FU6UVjjSpJHYfJkBwC-S3LANUlX-1k8Gq3EZiY7dX1UjPi2GWMU_k9rKKTX8h-7i4wHQynUZ9sVGmF-fZCkNNzm1khiE-KL0iu8zDerq9WdrH0IvYQ-IXXPrQeAkgzQ7nng_RDo2GimSXLeDPkl6FmLd1RVYeq5xWoMJ4)
   - 스케쥴러 & 인터럽트
   ![스케쥴러 이미지](https://wkdtjsgur100.github.io/images/posts/process-status.png)
-  - 컨텍스트 스위칭
+  - 컨텍스트 스위칭   
   ![컨텍스트 스위칭](https://t1.daumcdn.net/cfile/tistory/263A504B560486D324)
   - 세마포어   
   ![세마포어 이미지](https://t1.daumcdn.net/cfile/tistory/231BDE45594D0B552E)
