@@ -35,6 +35,8 @@
   ![쓰레드 이미지](https://t1.daumcdn.net/cfile/tistory/99195A495BA7B8EE08)
   - 뮤텍스(임계 영역)
   ![뮤텍스(임계 영역) 이미지](https://prepinsta.com/wp-content/uploads/2019/01/Mutex-Vs-Semaphore-1-1024x429.png)
+  - 쓰레드 풀   
+  ![쓰레드 풀](https://t1.daumcdn.net/cfile/tistory/231B374B595F67F43A)
 * 가상 메모리   
 ![가상 메모리](https://mblogthumb-phinf.pstatic.net/20160606_142/yeop9657_1465204023522CTEsY_PNG/%B1%D7%B8%B28.png?type=w2)
 ![가상 메모리2](https://mblogthumb-phinf.pstatic.net/20160606_24/yeop9657_1465204024106gSiyI_PNG/%B1%D7%B8%B29.png?type=w2)
