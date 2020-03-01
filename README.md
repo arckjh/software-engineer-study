@@ -15,6 +15,7 @@
 ### 컴퓨터 구조
 * 하드웨어 구조    
 ![하드웨어 구조 이미지](https://t1.daumcdn.net/cfile/tistory/1847673B4DC0E57C18)   
+![하드웨어 구조 이미지2](https://t1.daumcdn.net/cfile/tistory/263A504B560486D324)
    
 ### OS 컨셉
 * 커널   
@@ -25,7 +26,7 @@
   - 스케쥴러 & 인터럽트
   ![스케쥴러 이미지](https://wkdtjsgur100.github.io/images/posts/process-status.png)
   - 컨텍스트 스위칭   
-  ![컨텍스트 스위칭](https://t1.daumcdn.net/cfile/tistory/263A504B560486D324)
+  ![컨텍스트 스위칭](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile28.uf.tistory.com%2Fimage%2F9924B24F5BB1BAD912D938)
   - 세마포어   
   ![세마포어 이미지](https://t1.daumcdn.net/cfile/tistory/231BDE45594D0B552E)
   - IPC   
