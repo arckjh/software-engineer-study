@@ -43,7 +43,8 @@
 ![가상 메모리2](https://mblogthumb-phinf.pstatic.net/20160606_24/yeop9657_1465204024106gSiyI_PNG/%B1%D7%B8%B29.png?type=w2)
 * 파일 시스템   
 ![파일 시스템 이미지1](https://t1.daumcdn.net/cfile/tistory/214BAE4956AF0B0E01)
-![파일 시스템 이미지2](https://kouzie.github.io/assets/OS/OS_12_8.png)
+![파일 시스템 이미지2](https://t1.daumcdn.net/cfile/tistory/2468C83E56AF0ED719)
+![파일 시스템 이미지3](https://kouzie.github.io/assets/OS/OS_12_8.png)
 * 네트워크
   - OSI 7계층   
   ![OSI 7계층 이미지](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/axm/image/yWBiLryz1rFYUXYzRVdt_Hkf6e8.jpg)
