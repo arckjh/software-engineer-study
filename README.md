@@ -36,6 +36,12 @@
   ![쓰레드 이미지](https://t1.daumcdn.net/cfile/tistory/99195A495BA7B8EE08)
   - 뮤텍스(임계 영역)
   ![뮤텍스(임계 영역) 이미지](https://prepinsta.com/wp-content/uploads/2019/01/Mutex-Vs-Semaphore-1-1024x429.png)
+  - 데드락
+  ![데드락 이미지](https://cdn.crunchify.com/wp-content/uploads/2013/07/Java-Thread-Lock-Example-by-Crunchify.jpg)
+    + 자원에 대한 동시 접근 불가
+    + 자원 점유 기다리고, 대기
+    + 자원을 뺏어오지 못함
+    + 순환 형태로 대기
   - 쓰레드 풀   
   ![쓰레드 풀](https://t1.daumcdn.net/cfile/tistory/231B374B595F67F43A)
 * 가상 메모리   
